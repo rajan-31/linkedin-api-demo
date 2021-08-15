@@ -1,0 +1,18 @@
+{
+  "name": "play-with-linkedin-api",
+  "version": "1.0.0",
+  "description": "Build an app/write a program that \r -calls the API of LinkedIn\r -execute a task (any task of your choice)\r -show results",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rajan Khade",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  }
+}
