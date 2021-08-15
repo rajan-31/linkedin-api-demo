@@ -8,12 +8,24 @@ Build an app/write a program that
 
 ---
 
-Steps to get started
+## Heroku deployment
 
-### Starting server:
+https://mysterious-sierra-09610.herokuapp.com/
+
+---
+
+## Steps for local deplyment
+
+### Set environmrnt variables
 
 - crete a ".env" file at the project root and put the value by taking the reference of ".env.sample" file.
+
+### Install dependencies
+
 - run the command `npm install`
+
+### Start Server:
+
 - run the command `node app.js` or `npm start`
 
 ### Use
